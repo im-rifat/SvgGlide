@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SvgGlideDemo</string>
+
+    <string name="prompt">Choose</string>
+
+    <string-array name="sticker_list">
+        <item>From url</item>
+        <item>From assets folder</item>
+        <item>From res/raw folder</item>
+        <item>From string</item>
+    </string-array>
+</resources>
